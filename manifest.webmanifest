@@ -1,0 +1,18 @@
+{
+  "name": "MENTOR 217",
+  "short_name": "MENTOR",
+  "description": "Academia intensiva para la Convocatoria 217-2026",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071827",
+  "theme_color": "#071827",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

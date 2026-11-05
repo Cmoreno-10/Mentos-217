@@ -1,0 +1,14 @@
+MENTOR 217 Academia Intensiva v3 — paquete estático
+
+135 conceptos
+540 preguntas generadas en navegador
+270 flashcards generadas en navegador
+54 lecciones generadas en navegador
+16 semanas de ruta
+9 mapas mentales
+18 casos integradores
+30 retos avanzados
+10 fichas normativas
+16 fuentes catalogadas
+
+Sin backend. Sin npm. Sin build.

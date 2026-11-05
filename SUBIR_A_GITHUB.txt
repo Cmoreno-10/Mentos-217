@@ -1,0 +1,24 @@
+MENTOR 217 — LISTO PARA GITHUB PAGES
+
+NO NECESITAS NODE, NPM, GIT NI COMPILAR.
+
+1. Crea un repositorio nuevo en GitHub, por ejemplo mentor-217.
+2. Dentro del repositorio: Add file -> Upload files.
+3. Sube TODO el contenido de esta carpeta a la raíz:
+   index.html
+   app.js
+   data.js
+   styles.css
+   manifest.webmanifest
+   sw.js
+   icon.svg
+   .nojekyll
+4. Commit changes.
+5. Settings -> Pages.
+6. Source: Deploy from a branch.
+7. Branch: main. Folder: / (root).
+8. Save.
+9. Abre https://TU-USUARIO.github.io/mentor-217/
+
+El progreso se guarda en localStorage del navegador.
+Usa Ajustes -> Exportar JSON para respaldo.
