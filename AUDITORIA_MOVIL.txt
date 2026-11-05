@@ -1,0 +1,19 @@
+MENTOR 217 — AUDITORÍA MÓVIL
+
+Validado estructuralmente para diseño responsive desde 320 px.
+
+Correcciones aplicadas:
+- encabezado protegido contra desbordamiento
+- badge localStorage oculto en pantallas pequeñas
+- navegación inferior: Inicio, Estudiar, Práctica, Simulacro y Progreso
+- botón explícito para cerrar el menú lateral
+- safe-area para iPhone/notch/home indicator
+- objetivos táctiles mínimos de 44 px
+- wrap para textos largos
+- flashcards compactadas para móvil
+- progreso reorganizado para pantallas estrechas
+- barra inferior compatible con safe-area
+- protección global contra scroll horizontal accidental
+- cache del service worker incrementado para forzar actualización
+
+Nota: la auditoría fue estructural y de código responsive. El Chromium headless disponible en el entorno no logró producir capturas por una limitación de D-Bus/proceso del contenedor. Se recomienda una comprobación visual final en un teléfono real tras publicar.

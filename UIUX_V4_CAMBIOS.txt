@@ -1,0 +1,10 @@
+MENTOR 217 — REDISEÑO UI/UX v4
+
+- Paleta institucional oscura con mayor contraste.
+- Identidad cromática por módulo.
+- Menú agrupado en Estudio, Entrenamiento, Conocimiento y Seguimiento.
+- Header contextual según módulo activo.
+- Jerarquía tipográfica renovada.
+- Tarjetas, preguntas, flashcards, mapas, casos y normativa diferenciados.
+- Navegación móvil refinada.
+- Se mantiene todo el contenido, lógica y localStorage.
